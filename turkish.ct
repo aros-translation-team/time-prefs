@@ -1,14 +1,14 @@
 ## version $VER: timeprefs.catalog 1.0 (15.12.2020)
-## language tÃ¼rkÃ§e
-## codeset 0
+## language türkçe
+## codeset 12
 ;
 ;
 MSG_CANT_OPEN_LIB
-%s V%ld aÃ§Ä±lamadÄ±!\n
+%s V%ld açýlamadý!\n
 ; Can't open %s V%ld!\n
 ;
 MSG_CANT_CREATE_APP
-Uygulama nesneleri oluÅŸturulamadÄ±!
+Uygulama nesneleri oluþturulamadý!
 ; Can't create application object!
 ;
 MSG_WINTITLE
@@ -20,15 +20,15 @@ Proje
 ; Project
 ;
 MSG_MEN_PROJECT_QUIT
-Q\0Ã‡Ä±kÄ±ÅŸ
+Q\0Çýkýþ
 ; Q\0Quit
 ;
 MSG_MEN_EDIT
-DÃ¼zen
+Düzen
 ; Edit
 ;
 MSG_MEN_EDIT_RESTORE
-R\0VarsayÄ±lana dÃ¶n
+R\0Varsayýlana dön
 ; R\0Restore
 ;
 MSG_OK
@@ -44,6 +44,6 @@ Kullan
 ; Use
 ;
 MSG_GAD_CANCEL
-VazgeÃ§
+Vazgeç
 ; Cancel
 ;
